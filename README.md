@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Aditya Naskar Software Engineer.<br>Core Languages : Python, Java, JS, HTML, C/C++
+I am Aditya Naskar a Software Engineer.<br>Core Languages : Python, Java, JS, HTML, C/C++
 
 
 # 💻 Tech Stack:
